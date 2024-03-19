@@ -1,5 +1,4 @@
 # Learn Data Science & Analytics
-# Learn Data Science And Analytics
 
 ## Description
 This repository serves as a comprehensive guide and resource hub for individuals keen on mastering the fields of Data Science and Analytics. Whether you're a beginner or an experienced professional looking to enhance your skills, this repository aims to provide you with the necessary tools, tutorials, and datasets to navigate through the vast landscape of data science and analytics.
